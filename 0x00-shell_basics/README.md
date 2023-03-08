@@ -6,3 +6,4 @@ fifth script display current directory contents, including hidden files (startin
 sixth script display current directory contents, (Long format|with user and group IDs displayed numerically|And hidden files (starting with .))
 seven script creates a directory named my_first_directory in the /tmp/ directory.
 eight script will move the file betty from /tmp/ to /tmp/my_first_directory.ninth script will delete the file betty.
+10th script will delete the directory my_first_directory that is in the /tmp directory.
