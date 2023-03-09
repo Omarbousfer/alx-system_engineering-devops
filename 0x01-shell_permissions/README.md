@@ -21,3 +21,5 @@ Other users: all the permissions
 
 10th script will  sets the mode of the file hello to this:
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
+11 script will sets the mode of the file hello the same as olleh’s mode
