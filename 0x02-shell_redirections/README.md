@@ -23,3 +23,5 @@
 12) script counts the number of directories and sub-directories in the current directory
 
 13) script displays the 10 newest files in the current directory
+
+14) script  takes a list of words as input and prints only words that appear exactly once
