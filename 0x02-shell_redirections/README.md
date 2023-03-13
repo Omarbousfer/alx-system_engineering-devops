@@ -42,3 +42,5 @@
 21) script removes all letters c and C from input
 
 22) script reverse its input
+
+23) script displays all users and their home directories, sorted by users
