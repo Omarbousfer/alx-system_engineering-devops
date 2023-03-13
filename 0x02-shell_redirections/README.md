@@ -11,3 +11,5 @@
 6th script display the first 10 lines of /etc/passwd
 
 7) script displays the third line of the file iacta
+
+8) script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
