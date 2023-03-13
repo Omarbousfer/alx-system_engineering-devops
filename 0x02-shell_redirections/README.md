@@ -40,3 +40,5 @@
 20) script replace all characters A and c from input to Z and e respectively
 
 21) script removes all letters c and C from input
+
+22) script reverse its input
